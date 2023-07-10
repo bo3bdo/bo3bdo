@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<!--
-**bo3bdo/bo3bdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, my name is bo3bdo. a full-stack web developer working at Web.
+In this publication, I share everything I know about Laravel And Web,
+packages, and tools. Browse the list of topics or check the latest posts from below.
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
