@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=bo3bdo)
-
-![counter](https://[bo3bdo].m.pipedream.net)
